@@ -1,3 +1,3 @@
 # MAGD-150-Assignments
 
-*Hello*
+Below are examples of code, written in P5.js, for MAGD 150.
