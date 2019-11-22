@@ -2,6 +2,7 @@
 
 ### Lab 01
 [Lab 01 Link](https://github.com/MumbowerCJ23/MAGD-150-Assignments/tree/gh-pages/f19magd150lab01_mumbower)
+
 Assignment that deals with basic shapes and grayscale.
 
 ### Lab 03
