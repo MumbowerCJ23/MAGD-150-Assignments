@@ -1,22 +1,22 @@
 # MAGD 150 Assignments
 
 ### Lab 01
-**Theme**: Buildings
+..* **Theme**: Buildings
 
-Assignment that deals with basic shapes and grayscale.
+..* Assignment that deals with basic shapes and grayscale.
 
-[Lab 01 Link](https://github.com/MumbowerCJ23/MAGD-150-Assignments/tree/gh-pages/f19magd150lab01_mumbower)
+..* [Lab 01 Link](https://github.com/MumbowerCJ23/MAGD-150-Assignments/tree/gh-pages/f19magd150lab01_mumbower)
 
 
 ### Lab 03
-**Theme**: Bubbles
+..* **Theme**: Bubbles
 
-Assignment that entails movement and mouse input.
+..* Assignment that entails movement and mouse input.
 
-[Lab 03 Link](https://github.com/MumbowerCJ23/MAGD-150-Assignments/tree/gh-pages/f19magd150lab03_Mumbower)
+..* [Lab 03 Link](https://github.com/MumbowerCJ23/MAGD-150-Assignments/tree/gh-pages/f19magd150lab03_Mumbower)
 
 ### Lab 05
-**Theme**: Television
+..* **Theme**: Television
 
 Assignment that deals with button interaction, along with intersections.
 
